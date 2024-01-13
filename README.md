@@ -19,4 +19,4 @@ Make sure you have the following dependencies installed before running the scrip
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/My_Web_Scraper_Project.git
+   git clone https://github.com/zulfianarahmi/My_Web_Scraper_Project.git
